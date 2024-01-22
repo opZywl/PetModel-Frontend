@@ -1,0 +1,14 @@
+# Padrao
+/node_modules
+
+# Build 
+/build
+/dist
+
+# files
+.env
+.vscode
+.idea
+*.log
+.DS_Store
+Thumbs.db
